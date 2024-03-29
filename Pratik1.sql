@@ -4,7 +4,7 @@
 veya bu şekilde
 uzun yorumlarımızı
 yazabiliriz.
-*/
+*/iyi bayramlar kobra kayra
 
 /*
 SQL KOMUTLARI GRUPLARA AYRILIR :
